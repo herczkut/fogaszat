@@ -1,0 +1,10 @@
+    .atlatszo-hatter {
+        background-color: rgba(17, 17, 17, 0.396);
+        border-radius: 1rem;
+    }
+    body {
+        background-image: url("http://pctrs.network.hu/clubpicture/1/1/7/_/fogorvosi_maszk_1107615_4459_n.jpg");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
